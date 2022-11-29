@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pipattir
-- 🌱 I’m currently learning software engineering at university
+- 🌱 I’m currently studying software engineering at LUT university
 
 <!---
 pipattir/pipattir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
